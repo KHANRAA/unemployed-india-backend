@@ -1,0 +1,36 @@
+{
+  "name": "unemployed-india-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/api-gateway": "^1.0.0",
+    "@google-cloud/asset": "^3.12.0",
+    "@google-cloud/common": "^3.6.0",
+    "@google-cloud/logging": "^9.2.1",
+    "@google-cloud/logging-winston": "^4.0.4",
+    "@google-cloud/secret-manager": "^3.6.0",
+    "@google-cloud/storage": "^5.8.4",
+    "@google-cloud/workflows": "^1.1.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.7",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "winston": "^3.3.3"
+  }
+}
